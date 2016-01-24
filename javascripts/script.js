@@ -1,6 +1,6 @@
 (function($) {
 $(document).ready(function(){
-
+  
   // putting lines by the pre blocks
   $("pre").each(function(){
     var pre = $(this).text().split("\n");
@@ -60,5 +60,28 @@ $(document).ready(function(){
     $(window).scrollTop(0);
     return false;
   })
+  
+//changing to my 3 pages: projects, resume and home
+$("#resume").hide();
+    $("#projects").hide();
+    $("#home").show();
+
+  
+  $("#resume_link").click(function(){
+    $("#resume").show();
+    $("#projects").hide();
+    $("#home").hide();
+});
+  $("#project_link").click(function(){
+    $("#resume").hide();
+    $("#projects").show();
+    $("#home").hide();
+});
+  $("#home_link").click(function(){
+    $("#resume").hide();
+    $("#projects").hide();
+    $("#home").show();
+});  
+
 });
 })(jQuery)
