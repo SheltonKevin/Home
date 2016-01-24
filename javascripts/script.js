@@ -18,7 +18,12 @@ $(document).ready(function(){
     }
     $(this).before("<pre class='lines'>" + lines.join("\n") + "</pre>");
   });
-
+  
+  //changing to my 3 pages: projects, resume and home
+  $("resume").hide();
+  $("projects").hide();
+  
+  
   var headings = [];
 
   var collectHeaders = function(){
