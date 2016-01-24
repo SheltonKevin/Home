@@ -20,8 +20,9 @@ $(document).ready(function(){
   });
   
   //changing to my 3 pages: projects, resume and home
-  $("resume").hide();
-  $("projects").hide();
+  $("code").click(function(){
+    $("resume").hide();
+  })
   
   
   var headings = [];
