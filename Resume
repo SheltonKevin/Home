@@ -1,0 +1,94 @@
+<!doctype html>
+<!-- The Time Machine GitHub pages theme was designed and developed by Jon Rohan, on Feb 7, 2012. -->
+<!-- Follow him for fun. http://twitter.com/jonrohan. Tail his code on https://github.com/jonrohan -->
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <link rel="stylesheet" href="stylesheets/stylesheet.css" media="screen">
+  <link rel="stylesheet" href="stylesheets/github-dark.css">
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script type="text/javascript" src="javascripts/script.js"></script>
+
+  <title>Home</title>
+  <meta name="description" content="The main page of my website (the directory)">
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+</head>
+
+<body>
+<!-- HTML -->
+  <div class="wrapper">
+    <header>
+      <h1 class="title">Kevin Shelton</h1>
+    </header>
+    <div id="container">
+      <p class="tagline"> Dallas, Tx 75204   </p>
+      <p class="tagline"> Phone: (469) 307-3632 </p>
+      <p class="tagline"> E-mail: kevinshelton8@gmail.com</p>
+      <div id="main" role="main">
+        <div class="download-bar">
+        <div class="inner">
+          <a href="http://sheltonkevin.github.io/Home/" class="code">Home</a>
+          <a href="https://github.com/SheltonKevin/Home" class="code">Projects</a>
+        </div>
+        <span class="blc"></span><span class="trc"></span>
+        </div>
+        <article class="markdown-body">
+          <h3>
+<a id="welcome" class="anchor" href="#welcome" aria-hidden="true"><span class="octicon octicon-link"></span></a>Welcome to my website.</h3>
+
+<H2>Experience</H2>
+  <b>Sr. Specialist-Tech Project Manager at AT&T</b>
+  <p>As a project manager my role was to handle the launch of cell sites for a regional market, which included identifing issues, ensures standards were met and meet
+  monthly market goals. I also developed a data gathering system to reduce work time.</p>
+  <b>Sr. Specialist-Network Planning Engineer at AT&T</b>
+  <p>As a DC power planner my role was to provide short term planning based on budget, capacity and prioritization for an office. Additonally, I maintained the 
+  DC power planning website and was in special cycle time reducition projects.</p>
+<H2>Volunteer Work</H2>
+  <b>United Way Casino Night Fundraiser</b>
+  <p>July 2014 - September 2014</p>
+  <p>As a DC power planner the main role is to provide short term planning (1 to 2 years) for network power technologies in CO. 
+  This includes analysis, prioritization, budget management, capacity management, and life cycle management. </p>
+<H2>Education</H2>
+  <b> University of Central Florida </b>
+  <p>Bachelor's degree, Computer Engineering, 2008 – 2012</p>
+<H2>Technical Skills</H2>
+<ul>
+  <li>Microsoft: Office, Excel, Acess, PowerPoint</li>  
+  <li>Web Development: HTML, PHP, CSS, JAvascript, MySQL</li>
+  <li>General: Python, C, C++, Java, LISP,  GitHub  </li>
+  <li>Hardware Coding: Verilog, System C</li>
+  
+</UL>
+<H2>References</H2>
+  <p>Available upon request</p>
+<h3>
+
+
+      </div>
+    </div>
+    
+    
+    <footer>
+      <div class="owner">
+      <p><a href="https://github.com/SheltonKevin" class="avatar"><img src="https://avatars3.githubusercontent.com/u/16127038?v=3&amp;s=60" width="48" height="48"></a> <a href="https://github.com/SheltonKevin">SheltonKevin</a> maintains <a href="https://github.com/SheltonKevin/Home">Home</a></p>
+
+
+      </div>
+      <div class="creds">
+        <small>This page generated using <a href="https://pages.github.com/">GitHub Pages</a><br>theme by <a href="https://twitter.com/jonrohan/">Jon Rohan</a></small>
+      </div>
+    </footer>
+  </div>
+  <div class="current-section">
+    <a href="#top">Scroll to top</a>
+    <a href="https://github.com/SheltonKevin/Home/tarball/master" class="tar">tar</a><a href="https://github.com/SheltonKevin/Home/zipball/master" class="zip">zip</a><a href="" class="code">source code</a>
+    <p class="name"></p>
+  </div>
+
+  
+</body>
+</html>
