@@ -64,7 +64,7 @@ $(document).ready(function(){
 //changing to my 3 pages: projects, resume and home
 $("#resume").hide();
     $("#projects").hide();
-    $("#home").show();
+
 
   
   $("#resume_link").click(function(){
